@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/unwrapped/IpAddressSearchWebServiceSoap.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/wrapped/GetCountryCityByIp.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/wrapped/GetCountryCityByIpResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/wrapped/GetGeoIPContext.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/wrapped/GetVersionTimeResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/wrapped/IpAddressSearchWebService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/wrapped/IpAddressSearchWebServiceHttpGet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/wrapped/IpAddressSearchWebServiceHttpPost.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/wrapped/IpAddressSearchWebServiceSoap.java" charset="GBK" />
+  </component>
+</project>
